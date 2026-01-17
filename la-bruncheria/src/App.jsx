@@ -168,7 +168,7 @@ export default function App() {
 
 
       <h1 style={{ textAlign: "center", marginBottom: 8 }}>
-        La Bruncheria - Test final
+        La Bruncheria 
       </h1>
       <p style={{ textAlign: "center", marginBottom: 24 }}>
         Caja San Valentín – Edición limitada
