@@ -168,7 +168,7 @@ export default function App() {
 
 
       <h1 style={{ textAlign: "center", marginBottom: 8 }}>
-        Un Buen Día
+        La Bruncheria
       </h1>
       <p style={{ textAlign: "center", marginBottom: 24 }}>
         Caja San Valentín – Edición limitada
